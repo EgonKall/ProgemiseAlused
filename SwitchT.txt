@@ -1,0 +1,8 @@
+
+esimeses tehakse korrutamine(sisend küstakse konsoolis)
+teine küsib sinu vanust jakuvab tulemuse
+kolmamdas kutsutakse meetod esile ja kuvab teksti Miau
+
+esimeses tehakse liitmine (sisend küsitakse konsoolis)
+teises kutsutakse meetod esile ja kuvab teksti Auh
+kolmas küsib nime ja kuvab tulemuse konsoolis
