@@ -25,6 +25,8 @@
                 Console.WriteLine();
                 i++;
             }
+
+            Console.Readkey();
         }
     }
 }
