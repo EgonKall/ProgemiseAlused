@@ -1,0 +1,25 @@
+﻿namespace WhileDo
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("While Do");
+
+
+            int nr = int.Parse(Console.ReadLine());
+            int i = 1;
+
+            //See on interatsioon e tsükkel, mis kordub
+            //mii kaua, kui vasab tingimustele
+            do
+            {
+                Console.WriteLine(i);
+                //++suurendab ühe võrra väärtust
+                i++;
+                Thread.Sleep(1000);
+
+            } while (i <= nr);
+        }
+    }
+}
